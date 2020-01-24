@@ -8,6 +8,7 @@ read/subscribe to the following resources:
 
 - [Coding Standards](https://github.com/oneplc/oneplace-coding-standard)
 - [Forums](https://discourse.1plc.ch/c/contributors)
+- [Slack](https://join.slack.com/t/oneplc/shared_invite/enQtOTA4NDM5MzYwMjkwLTU4MDFjZWNkMmU2M2VmYjUwN2YyMTdlOWNlNTA3NDliZTBlODUxNTJmMGNkOWE5ZjMyMjIyMmQ5OTdlYjBkMjI)
 - [Code of Conduct](CODE_OF_CONDUCT.md)
 
 If you are working on new features or refactoring
